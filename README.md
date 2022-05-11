@@ -1,4 +1,8 @@
-### Hi there 👋
+Private repositories available upon request:
+    - Battleship Board Game Simulator
+    - Euchre Card Game Simulator
+    - Cipher Generator
+    - Seam Carver
 
 <!--
 **bjcreal/bjcreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
