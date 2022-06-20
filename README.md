@@ -3,7 +3,7 @@ https://www.linkedin.com/in/braedoncreal/
 
 ### Private repositories available upon request
 ### Current Projects:
-- University of Michigan Course Planning Tool
+- University of Michigan Course Planning Tool (CourseFlow)
     - Web application designed to make course planning simpler for Michigan students
     - Displays helpful course information, professor ratings, workload, etc.
     - Interactive to help students visualize their options better
